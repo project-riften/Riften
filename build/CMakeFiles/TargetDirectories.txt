@@ -1,0 +1,3 @@
+G:/Programowanie/Riften/build/CMakeFiles/riften.dir
+G:/Programowanie/Riften/build/CMakeFiles/ALL_BUILD.dir
+G:/Programowanie/Riften/build/CMakeFiles/ZERO_CHECK.dir
