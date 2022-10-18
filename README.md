@@ -2,4 +2,4 @@
 
 ## License
 
-All code in this repository is licensed under the [GPL-3.0 license](LICENSE-CODE).
+All code in this repository is licensed under the [GPL-3.0 license](LICENSE).
