@@ -1,0 +1,5 @@
+Project: JSON for Modern C++
+URL: https://github.com/nlohmann/json/
+License: MIT License
+Upstream version: 3.11.2
+Local modifications: None
