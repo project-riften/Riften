@@ -1,6 +1,5 @@
-#include "main.hpp"
-#include "discord.hpp"
+#include <iostream>
 
 int main(int, char**) {
-    riften::test_json();
+    std::cout << "Hello, world!\n";
 }
